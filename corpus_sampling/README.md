@@ -1,4 +1,4 @@
-<b>1) Corpus Sampling</b><br>
+<b>Corpus Sampling</b><br>
 
 The corpus for the study is based on the “Masters Branch” (zibu 子部) of the “Complete Library of the Four Treasuries” (Siku quanshu 四庫全書, compiled 1772-1782). The “Masters Branch” contains subcategories corresponding to different genres, including philosophy, arts, and different sciences, among them mathematics (Wilkinson, 2022: 1863-1877). Digital versions of the texts were obtained from the “Kanseki Repository 漢籍リポジトリ” (Wittern, 2016). <br>
 
