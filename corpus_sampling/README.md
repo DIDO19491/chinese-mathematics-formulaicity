@@ -36,8 +36,8 @@ In terms of the contribution of each subcategory and the lengths of the texts wi
 <img width="982" height="525" alt="cumulated_distribution_of_juan" src="https://github.com/DIDO19491/chinese-mathematics-formulaicity/blob/main/corpus_sampling/statistics/overview_corpus_statistic.png" />
 
 <h4>References</h4>
-Wilkinson, Endymion. 2022. Chinese History - A New Manual. Enlarged sixth edition. Cambridge, Massachusetts: Harvard University Asia Center. <br>
-Wittern, Christian. 2016. „Kanseki Repository“. CIEAS Research Report 2015 Special issue: 1–80. <br>
-Link to Kanripo repository: https://github.com/kanripo
+<p>Wilkinson, Endymion. 2022. Chinese History - A New Manual. Enlarged sixth edition. Cambridge, Massachusetts: Harvard University Asia Center. </p>
+<p>Wittern, Christian. 2016. „Kanseki Repository“. CIEAS Research Report 2015 Special issue: 1–80. </p>
+<p>Link to Kanripo repository: https://github.com/kanripo<p>
 
 
