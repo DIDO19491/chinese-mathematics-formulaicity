@@ -1,0 +1,50 @@
+Parameter settings :
+allfrex   <class 'dict'> of 11467 items.
+atomize   1
+casefold  1
+catlist   ['kongzi', 'leishu', 'math', 'nongjia', 'pulu', 'shushu', 'tianwen', 'xiaoshuo', 'yijia', 'yishu', 'zajia']
+cats      11
+catvals   {'nongjia', 'leishu', 'shushu', 'kongzi', 'tianwen', 'pulu', 'xiaoshuo', 'yijia', 'yishu', 'zajia', 'math'}
+colnames  ['prepath', 'filename', 'doctype']
+contrast  0
+dateline  Tue Jul  8 20:46:48 2025
+doclist   <class 'list'> of 1298 items.
+docs      1298
+dropsubs  0
+dumpfile  ~ ../op/formtest_blox.dat
+filelist  <class 'list'> of 1298 items.
+fo        ~ ../op/taverns.txt
+foldcase  1
+gramcats  11
+gramfile  ~ ../op/formtest_gram.dat
+gramtags  ['kongzi', 'leishu', 'math', 'nongjia', 'pulu', 'shushu', 'tianwen', 'xiaoshuo', 'yijia', 'yishu', 'zajia']
+id        /home/uni/Dokumente/sin-aps/formulaic_language/formulib/parapath/formulib_rand_noNum_248_formtest.txt
+jobname   formtest
+listfile  ~ ../op/formtest_ales.txt
+maxiglen  8
+maxsize   3607
+meansize  3599.5755
+midsize   3607.0
+mindocf   3
+miniglen  3
+minsize   3325
+outcomes  <class 'list'> of 1298 items.
+outfile   ../op/taverns.txt
+outforms  80
+outpath   ../op/
+progname  taverns.py
+punxtab   <class 'dict'> of 25 items.
+refcode   math
+seencats  11
+sizelist  <class 'list'> of 1298 items.
+snipsize  115
+targcol   2
+targvar   doctype
+testmeta  /home/uni/Dokumente/sin-aps/formulaic_language/formulib/mets/formulib_rand_noNum_248_met.txt
+topgrams  80
+totsnips  40175
+tottoks   4672249
+vocsize   11467
+wordonly  1
+zonk      0
+

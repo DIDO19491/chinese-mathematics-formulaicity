@@ -1,0 +1,51 @@
+Parameter settings :
+allfrex   <class 'dict'> of 9548 items.
+atomize   1
+casefold  1
+catlist   ['kongzi', 'leishu', 'math', 'nongjia', 'pulu', 'shushu', 'tianwen', 'xiaoshuo', 'yijia', 'yishu', 'zajia']
+cats      11
+catvals   {'kongzi', 'math', 'zajia', 'xiaoshuo', 'nongjia', 'yijia', 'shushu', 'yishu', 'leishu', 'tianwen', 'pulu'}
+colnames  ['prepath', 'filename', 'doctype']
+contrast  0
+dateline  Sat Jun 21 18:44:28 2025
+doclist   <class 'list'> of 504 items.
+docs      504
+dropsubs  0
+dumpfile  ~ /home/uni/Dokumente/sin-aps/formulaic_language/formulib/op/formulib_rand_noNum_915_formtest.txt/formtest_blox.dat
+filelist  <class 'list'> of 504 items.
+fo        ~ /home/uni/Dokumente/sin-aps/formulaic_language/formulib/op/formulib_rand_noNum_915_formtest.txt/formulib_rand_noNum_915_formtest.txt_outgrams.txt
+foldcase  1
+gramcats  11
+gramdata  /home/uni/Dokumente/sin-aps/formulaic_language/formulib/op/formulib_rand_noNum_915_formtest.txt/formulib_rand_noNum_915_formtest.txt_data.dat
+gramfile  ~ /home/uni/Dokumente/sin-aps/formulaic_language/formulib/op/formulib_rand_noNum_915_formtest.txt/formulib_rand_noNum_915_formtest.txt_data.dat
+gramtags  ['kongzi', 'leishu', 'math', 'nongjia', 'pulu', 'shushu', 'tianwen', 'xiaoshuo', 'yijia', 'yishu', 'zajia']
+id        /home/uni/Dokumente/sin-aps/formulaic_language/formulib/parapath/formulib_rand_noNum_915_formtest.txt
+jobname   formtest
+listfile  ~ /home/uni/Dokumente/sin-aps/formulaic_language/formulib/op/formulib_rand_noNum_915_formtest.txt/formtest_ales.txt
+maxiglen  8
+maxsize   3596
+meansize  3589.3591
+midsize   3596.0
+mindocf   3
+miniglen  3
+minsize   3395
+outcomes  <class 'list'> of 504 items.
+outfile   /home/uni/Dokumente/sin-aps/formulaic_language/formulib/op/formulib_rand_noNum_915_formtest.txt/formulib_rand_noNum_915_formtest.txt_outgrams.txt
+outforms  80
+outpath   /home/uni/Dokumente/sin-aps/formulaic_language/formulib/op/formulib_rand_noNum_915_formtest.txt/
+progname  taverns.py
+punxtab   <class 'dict'> of 25 items.
+refcode   zajia
+seencats  11
+sizelist  <class 'list'> of 504 items.
+snipsize  115
+targcol   2
+targvar   doctype
+testmeta  /home/uni/Dokumente/sin-aps/formulaic_language/formulib/mets/formulib_rand_noNum_915_testing.txt
+topgrams  80
+totsnips  15603
+tottoks   1809037
+vocsize   9548
+wordonly  1
+zonk      0
+

@@ -1,0 +1,22 @@
+Tue Jul  8 21:13:34 2025
+parafile: /home/uni/Dokumente/sin-aps/formulaic_language/formulib/parapath/formulib_rand_noNum_426_formtest.txt
+metaflic: /home/uni/Dokumente/sin-aps/formulaic_language/formulib/mets/formulib_rand_noNum_426_met.txt
+miniglen: 3
+maxiglen: 8
+topgrams: 80
+1298 11
+
+Category coverage% (characters, tokens) by frequent n-grams :
+
+0 kongzi           3.2374 3.2375
+1 leishu           2.5242 2.5243
+2 math             16.5989 16.599
+3 nongjia          3.6883 3.6884
+4 pulu             2.5607 2.5608
+5 shushu           6.0324 6.0326
+6 tianwen          15.775 15.7751
+7 xiaoshuo         2.2414 2.2414
+8 yijia            6.8728 6.873
+9 yishu            3.979 3.9792
+10 zajia            1.9543 1.9544
+

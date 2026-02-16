@@ -1,0 +1,28 @@
+Sun Jul  6 23:25:21 2025
+parafile: /home/uni/Dokumente/sin-aps/formulaic_language/formulib/parapath/math_formtest.txt
+metaflic: /home/uni/Dokumente/sin-aps/formulaic_language/formulib/mets/math_met.txt
+miniglen: 3
+maxiglen: 8
+topgrams: 80
+115 17
+
+Category coverage% (characters, tokens) by frequent n-grams :
+
+0 KR3f0032         21.7918 21.7918
+1 KR3f0034         22.8224 22.8224
+2 KR3f0037         36.3918 36.3918
+3 KR3f0039         38.2872 38.2872
+4 KR3f0040         42.9568 42.9568
+5 KR3f0041         24.9045 24.9045
+6 KR3f0042         35.0966 35.0966
+7 KR3f0043         42.5131 42.5131
+8 KR3f0044         44.6282 44.6282
+9 KR3f0045         51.848 51.848
+10 KR3f0046         20.0236 20.0236
+11 KR3f0047         34.8066 34.8066
+12 KR3f0048         25.0 25.0
+13 KR3f0052         25.2951 25.2951
+14 KR3f0054         67.0974 67.0974
+15 KR3f0055         29.0204 29.0204
+16 KR3f0056         28.1403 28.1403
+

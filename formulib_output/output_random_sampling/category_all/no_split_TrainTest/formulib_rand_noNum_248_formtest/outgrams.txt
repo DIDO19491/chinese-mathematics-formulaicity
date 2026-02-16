@@ -1,0 +1,47 @@
+Parameter settings :
+allfrex   <class 'dict'> of 11467 items.
+atomize   1
+casefold  1
+catlist   ['kongzi', 'leishu', 'math', 'nongjia', 'pulu', 'shushu', 'tianwen', 'xiaoshuo', 'yijia', 'yishu', 'zajia']
+cats      11
+catvals   {'shushu', 'yijia', 'tianwen', 'yishu', 'math', 'kongzi', 'xiaoshuo', 'zajia', 'nongjia', 'leishu', 'pulu'}
+colnames  ['prepath', 'filename', 'doctype']
+dateline  Tue Jul  8 20:43:02 2025
+doclist   <class 'list'> of 1298 items.
+docs      1298
+dropsubs  0
+dumpfile  ~ ../op/formtest_gram.dat
+filelist  <class 'list'> of 1298 items.
+fo        ~ ../op/outgrams.txt
+foldcase  1
+id        /home/uni/Dokumente/sin-aps/formulaic_language/formulib/parapath/formulib_rand_noNum_248_formtest.txt
+jobname   formtest
+listfile  ~ ../op/formtest_list.txt
+maxiglen  8
+maxsize   3607
+maxtops   30
+meansize  3599.5755
+metafile  /home/uni/Dokumente/sin-aps/formulaic_language/formulib/mets/formulib_rand_noNum_248_met.txt
+midsize   3607.0
+mindocf   3
+miniglen  3
+minsize   3325
+outcomes  <class 'list'> of 1298 items.
+outfile   ../op/outgrams.txt
+outpath   ../op/
+progname  outgrams.py
+punxtab   <class 'dict'> of 25 items.
+refcode   math
+seencats  11
+sizelist  <class 'list'> of 1298 items.
+snipsize  115
+targcol   2
+targvar   doctype
+topgrams  80
+totsnips  40175
+tottoks   4672249
+trainmet  /home/uni/Dokumente/sin-aps/formulaic_language/formulib/mets/formulib_rand_noNum_248_met.txt
+vocsize   11467
+wordonly  1
+zonk      0
+

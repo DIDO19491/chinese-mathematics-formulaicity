@@ -1,0 +1,47 @@
+Parameter settings :
+allfrex   <class 'dict'> of 2121 items.
+atomize   1
+casefold  1
+catlist   <class 'list'> of 17 items.
+cats      17
+catvals   <class 'set'> of 17 items.
+colnames  ['prepath', 'filename', 'doctype']
+dateline  Sun Jul  6 23:24:31 2025
+doclist   <class 'list'> of 115 items.
+docs      115
+dropsubs  0
+dumpfile  ~ ../op/formtest_gram.dat
+filelist  <class 'list'> of 115 items.
+fo        ~ ../op/outgrams.txt
+foldcase  1
+id        /home/uni/Dokumente/sin-aps/formulaic_language/formulib/parapath/math_formtest.txt
+jobname   formtest
+listfile  ~ ../op/formtest_list.txt
+maxiglen  8
+maxsize   3869
+maxtops   30
+meansize  3868.9826
+metafile  /home/uni/Dokumente/sin-aps/formulaic_language/formulib/mets/math_met.txt
+midsize   3869
+mindocf   3
+miniglen  3
+minsize   3867
+outcomes  <class 'list'> of 115 items.
+outfile   ../op/outgrams.txt
+outpath   ../op/
+progname  outgrams.py
+punxtab   <class 'dict'> of 25 items.
+refcode   KR3f0048
+seencats  17
+sizelist  <class 'list'> of 115 items.
+snipsize  115
+targcol   2
+targvar   doctype
+topgrams  80
+totsnips  3910
+tottoks   444933
+trainmet  /home/uni/Dokumente/sin-aps/formulaic_language/formulib/mets/math_met.txt
+vocsize   2121
+wordonly  1
+zonk      0
+
